@@ -27,3 +27,15 @@ export default Greet //using this we can import Greet with any name
 
 // props means => optional input or properties
 // it makes the component dynamic
+
+
+//Destucturing the functional Component
+// const Greet = ({name, heroname}) => {
+//     return(
+//         <div>
+//             <h1>
+//                 Hello {name} aka {heroname}
+//             </h1>
+//         </div>
+//     )
+// }
