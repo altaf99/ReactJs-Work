@@ -12,3 +12,9 @@ const Hello = () => {
 }
 
 export default Hello
+
+// keywords replaced in JSX
+// class => className
+// for => htmlFor
+// onclick => onClick
+// tabindex => tabIndex
