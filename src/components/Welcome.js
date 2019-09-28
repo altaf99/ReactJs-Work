@@ -14,5 +14,17 @@ export default Welcome
 //use this keyword in class component
 //to access the props value
 
+//props:
 //props are immutable
 //this.props.name="tony" =>error
+//Function paraeter
+
+//state:
+//managed within the component
+//variables declared in the func body
+//can change the state
+//to aceess the state,
+//it useStateHook-function compoenent
+//and this.state - class component
+
+
